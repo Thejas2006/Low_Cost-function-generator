@@ -51,7 +51,7 @@ Designed as a hands-on learning platform for understanding:
 ## 🔬 Experimental Results (Proof of Work)
 
 
-> 📷 *Waveform captures are included in the `/waveforms` folder for verification.*
+> 📷 *Waveform captures are included in the "results" pdf for verification.*
 
 ---
 
@@ -65,7 +65,3 @@ Designed as a hands-on learning platform for understanding:
 * Digital Storage Oscilloscope (DSO)
 * Breadboard / PCB Setup
 
-
-
-
-If you want, I can also format this into a **`README.md` file with images embedded and GitHub badges** so it looks clean and professional on your repo.
