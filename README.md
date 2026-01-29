@@ -1,7 +1,7 @@
 
-# 🔧 Digital Function Generator (Op-Amp Based)
+# 🔧 Function Generator (Op-Amp Based)
 
-A low-cost, digital function generator designed and built using op-amps and discrete components to produce **sine, square, and triangular waveforms** with adjustable frequency and amplitude. This project demonstrates practical waveform generation using classical analog design techniques.
+A low-cost, analog function generator designed and built using op-amps and discrete components to produce **sine, square, and triangular waveforms** with adjustable frequency and amplitude. This project demonstrates practical waveform generation using classical analog design techniques.
 
 ---
 
